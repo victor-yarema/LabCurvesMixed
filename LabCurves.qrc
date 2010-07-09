@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="LabCurves" >
+    <file>Icons/arrow.svg</file>
+    <file>Icons/arrow-stop.svg</file>
+    <file>Icons/reload.svg</file>
+    <file>Icons/filesave.svg</file>
+    <file>Icons/downarrow.svg</file>
+    <file>Icons/rightarrow.svg</file>
+    <file>Icons/folder_grey_open.svg</file>
+    <file>Icons/Icon.svg</file>
+    <file>Icons/viewmag1.svg</file>
+    <file>Icons/viewmag_h.svg</file>
+    <file>Icons/play.svg</file>
+    <file>Splash.png</file>
+  </qresource>
+</RCC>
